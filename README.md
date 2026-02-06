@@ -102,6 +102,8 @@ else:
 ```
 ### Output:
 
+<img width="503" height="823" alt="image" src="https://github.com/user-attachments/assets/8548e055-a132-4288-9e69-1a853200da78" />
+
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
@@ -129,9 +131,6 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
-
-<img width="503" height="823" alt="image" src="https://github.com/user-attachments/assets/8548e055-a132-4288-9e69-1a853200da78" />
-
 
 <img width="1246" height="654" alt="image" src="https://github.com/user-attachments/assets/ea3b1e5c-57e7-4d4a-afbd-e8f68a4d4f95" />
 
